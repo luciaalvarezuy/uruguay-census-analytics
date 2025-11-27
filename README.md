@@ -9,6 +9,25 @@ The goal is to demonstrate how I approach complex data problems from a full life
 
 ---
 
+## Data Sources
+
+Below are the official public resources used in this project:
+
+- **Uruguay 2023 Census Microdata (Anonymized)**  
+  Official release from INE  
+  https://www.gub.uy/instituto-nacional-estadistica/politicas-y-gestion/microdatos-censo-2023-anonimizados
+
+- **Dataset used in this project (person-level data)**  
+  https://www5.ine.gub.uy/documents/CENSO%202023/Microdatos/personas_ext_26_02.rar
+
+- **Census Questionnaire (full instrument)**  
+  https://www.gub.uy/instituto-nacional-estadistica/sites/instituto-nacional-estadistica/files/2025-02/Cuestionario_censo2023%20%281%29.pdf
+
+- **Variable Dictionary**  
+  https://www5.ine.gub.uy/documents/CENSO%202023/Microdatos/Diccionario%20de%20variables%202023.xlsx
+
+---
+
 ## Project Goals  
 - Process and analyze large datasets with **PySpark** in a scalable framework  
 - Build clean, modular, reproducible data pipelines  
