@@ -1,3 +1,5 @@
+## **Notebooks**
+
 This directory contains all the Jupyter notebooks created throughout the development of this project.
 They are added progressively as the analysis evolves, documenting the entire workflow from data exploration to modeling and interpretation.
 
